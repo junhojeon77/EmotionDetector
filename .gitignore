@@ -1,0 +1,19 @@
+# Dataset directories
+data/
+# VENV
+emotion-detect/
+
+# Common dataset file extensions
+*.csv
+*.zip
+*.h5
+*.pkl
+*.npy
+*.npz
+
+# Large media files that might be part of datasets
+*.jpg
+*.jpeg
+*.png
+*.mp4
+*.avi
