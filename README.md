@@ -18,6 +18,10 @@ pip install -r requirement.txt
 
 2. Prepare data:
 
+- use Kaggle to dowload data sets from FER - 2013
+  ```bash
+  path = kagglehub.dataset_download("msambare/fer2013")
+  ```
 - Place images under `data/train/` and `data/test/` with one folder per class.
 
 3. Train:
