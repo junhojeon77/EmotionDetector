@@ -1,5 +1,3 @@
-// ...existing code...
-
 # Emotion Detector
 
 Lightweight CNN-based facial emotion recognition (7 classes: 'Angry', 'Disgust', 'Fear', 'Happy', 'Neutral', 'Sad', 'Surprise') using data from FER2013.
